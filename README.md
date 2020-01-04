@@ -1,12 +1,12 @@
 # Tip-Calc
 
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip-Calc*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip-Calc** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Kaeley Lenard**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Kaeley Lenard]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
