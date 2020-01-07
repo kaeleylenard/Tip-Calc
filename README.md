@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] App icon to represent Tip Calc is visible on home screen.
 
 ## Video Walkthrough 
 
